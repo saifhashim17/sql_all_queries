@@ -1,6 +1,6 @@
 # 🔳 `A` ${\color{Red}2}$ `Z` SQL Queries ${\color{Green}(using\ SQL\ SERVER)}$
 
-## ©️ ${\color{grey}Developed\ and\ Maintained\ by:}$ ${\color{blue}Md\ Imtiyaz\ Alam}$ ![image](https://github.com/user-attachments/assets/41e9ec22-6d13-45a3-94ed-75b2a6e7bc5e)
+## ©️ ${\color{grey}Developed\ and\ Maintained\ by:}$ ${\color{blue}Mohammed\ Saif\ Hashim}$ ![image](https://github.com/user-attachments/assets/41e9ec22-6d13-45a3-94ed-75b2a6e7bc5e)
 
 
 ## 👇 ${\color{red}NAVIGATION}$
