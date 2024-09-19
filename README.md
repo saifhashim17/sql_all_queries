@@ -1,4 +1,4 @@
-# 🔳 `A` ${\color{Red}2}$ `Z` SQL Queries ${\color{Green}(using\ SQL\ SERVER)}$
+# 🔳 `A` ${\color{Green}2}$ `Z` SQL Queries ${\color{Red}(using\ SQL\ SERVER)}$
 
 ## ©️ ${\color{grey}Developed\ and\ Maintained\ by:}$ ${\color{blue}Mohammed\ Saif\ Hashim}$ ![image](https://github.com/user-attachments/assets/41e9ec22-6d13-45a3-94ed-75b2a6e7bc5e)
 
